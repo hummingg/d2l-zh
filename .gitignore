@@ -10,3 +10,8 @@ dist*
 _build/
 test*.md
 run.sh
+
+notebook/d2l-zh.zip
+notebook/mxnet
+notebook/paddle
+notebook/tensorflow
